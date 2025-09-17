@@ -1,0 +1,8 @@
+site_name: Yanjf Docs
+theme:
+    name: material
+#theme: readthedocs
+nav:
+    - Home: index.md
+    - About: about.md
+    
