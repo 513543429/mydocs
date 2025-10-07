@@ -1,6 +1,8 @@
 # Welcome to MkDocs
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+- 信息奥赛
+- 通用技术
 
 ## Commands
 
